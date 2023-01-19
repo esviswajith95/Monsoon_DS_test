@@ -7,7 +7,7 @@ The code is organised in four jupyter notebooks
 
 3. 03_Oversampling.ipynb - Contains experiments with oversampling
 
-4. 04_04_Final models_and_prediction.ipynb - **This notebook contain the final approach, models, HP tuning and final predictions**
+4. 04_Final models_and_prediction.ipynb - **This notebook contain the final approach, models, HP tuning and final predictions**
 
 solution_description.pdf contains a brief description of the work carried out.
 
