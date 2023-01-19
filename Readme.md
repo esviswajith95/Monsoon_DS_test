@@ -1,4 +1,4 @@
-The code is divided in four jupyter notebooks
+The code is organised in four jupyter notebooks
 
 
 1. 01_eda.ipynb - Contains Exploratory data analysis
